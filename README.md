@@ -18,7 +18,7 @@ Conteúdo passado em aula que foi utilizado:
 - Funções *callback*
 - Arrays
 
-🔗 [Acesse aqui]()
+🔗 [Acesse aqui](https://daniyuk.github.io/biscoito-da-sorte/)
 
 ## 💻 Tecnologias 
 - HTML
@@ -27,4 +27,4 @@ Conteúdo passado em aula que foi utilizado:
 
 ## ✨Exemplo da animação
 
-![gif]()
+![gif](./.github/preview-animation.gif)
